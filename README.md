@@ -1,3 +1,1 @@
-# Advanced Node and Express
-
-This is the boilerplate for the Advanced Node and Express lessons. Instructions for the lessons start at https://www.freecodecamp.org/learn/quality-assurance/advanced-node-and-express/
+This is a repository containing the failing code of the "Implementation of Social Authentication" in the Advanced Node and Express section of the freecodecamp curriculum. see link here to challenge: https://www.freecodecamp.org/learn/quality-assurance/advanced-node-and-express/implementation-of-social-authentication
